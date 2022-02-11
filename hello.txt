@@ -7,3 +7,4 @@ Mencoba Update Squash
 - Update Squash 2
 - Update Squash 3
 
+Mencoba Code review
