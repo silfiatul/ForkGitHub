@@ -1,3 +1,6 @@
 Hello World
 
 - Mencoba Push Request melalui Fork
+
+Mencoba Update Squash 
+- Update Squash 1
